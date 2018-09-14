@@ -1,0 +1,117 @@
+# Translation of GhostBSD-welcome.
+# Copyright (C) 2016-2017 GhostBSD Developers
+# This file is distributed under the same license as the ghostbsd-welcome package.
+#
+# 
+# Translators:
+# Takefumi Nagata <take1975@kumamoto.email.ne.jp>, 2017
+# Vic Thacker <vimanuelt@fastmail.fm>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: ghostbsd-welcome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-04 10:28+0100\n"
+"PO-Revision-Date: 2017-10-07 19:09+0100\n"
+"Last-Translator: Vic Thacker <vimanuelt@fastmail.fm>, 2018\n"
+"Language-Team: Japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ui/ghostbsd-welcome.glade:55
+msgid "Welcome to GhostBSD!"
+msgstr "GhostBSDへようこそ!"
+
+#: ui/ghostbsd-welcome.glade:71
+msgid ""
+"Thank you for joining our community!\n"
+"\n"
+"We, the GhostBSD Developers, hope that you will enjoy using GhostBSD as much as we enjoy building it. The links below will help you get started with your new operating system. So enjoy the experience, and don't hesitate to send us your feedback."
+msgstr ""
+"私たちのコミュニティに参加してくれて、ありがとう!\n"
+"\n"
+"私たち、GhostBSDの開発チームは、私たちが開発したときと同じように、あなたがGhostBSDを使うことを楽しむことを望みます。下のリンクは、あなたが新しいオペレーティングシステムを始めたときに助けになるものです。すばらしい経験をして、何かあったら私たちにフィードバックしてください。"
+
+#: ui/ghostbsd-welcome.glade:89
+msgid "DOCUMENTATION"
+msgstr "ドキュメンテーション"
+
+#: ui/ghostbsd-welcome.glade:103
+msgid "SUPPORT"
+msgstr "サポート"
+
+#: ui/ghostbsd-welcome.glade:117
+msgid "PROJECT"
+msgstr "プロジェクト"
+
+#: ui/ghostbsd-welcome.glade:129
+msgid "Read me"
+msgstr "Read me"
+
+#: ui/ghostbsd-welcome.glade:143
+msgid "Release info"
+msgstr "リリース情報"
+
+#: ui/ghostbsd-welcome.glade:158
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ui/ghostbsd-welcome.glade:163 ui/ghostbsd-welcome.glade:194
+#: ui/ghostbsd-welcome.glade:211 ui/ghostbsd-welcome.glade:228
+#: ui/ghostbsd-welcome.glade:245 ui/ghostbsd-welcome.glade:262
+msgid "Web resource"
+msgstr ""
+
+#: ui/ghostbsd-welcome.glade:175
+msgid "Get involved"
+msgstr "参加する"
+
+#: ui/ghostbsd-welcome.glade:189
+msgid "Forums"
+msgstr "フォーラム"
+
+#: ui/ghostbsd-welcome.glade:206
+msgid "Chat room"
+msgstr "チャットルーム"
+
+#: ui/ghostbsd-welcome.glade:223
+msgid "Mailling lists"
+msgstr "メーリングリスト"
+
+#: ui/ghostbsd-welcome.glade:240
+msgid "Development"
+msgstr "開発"
+
+#: ui/ghostbsd-welcome.glade:257
+msgid "Donate"
+msgstr "寄付"
+
+#: ui/ghostbsd-welcome.glade:376
+msgid "Launch at start"
+msgstr "システムの開始時に起動させる"
+
+#: ui/ghostbsd-welcome.glade:407
+msgid "INSTALLATION"
+msgstr "インストーレーション"
+
+#: ui/ghostbsd-welcome.glade:419
+msgid "Launch installer"
+msgstr "インストーラーを起動"
+
+#: ui/ghostbsd-welcome.glade:462
+msgid "Home"
+msgstr "Home"
+
+#: ui/ghostbsd-welcome.glade:530 ui/ghostbsd-welcome.glade:544
+msgid "About"
+msgstr "About"
+
+#: ui/ghostbsd-welcome.glade:549
+msgid "Welcome screen for GhostBSD"
+msgstr "Welcome screen for GhostBSD"
+
+#: src/ghostbsd-welcome.py:212
+msgid "Can't load page."
+msgstr "ページがロードできません。"

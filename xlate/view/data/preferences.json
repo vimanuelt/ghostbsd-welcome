@@ -1,0 +1,24 @@
+{
+    "default_locale": "en",
+    "autostart_path": "~/.config/autostart/ghostbsd-welcome.desktop",
+    "data_path": "/usr/share/ghostbsd-welcome/data/",
+    "desktop_path": "/usr/share/applications/ghostbsd-welcome.desktop",
+    "installer_path": "/usr/bin/calamares",
+    "live_path": "/run/miso/bootmnt/ghostbsd",
+    "locale_path": "/usr/share/locale/",
+    "logo_path": "/usr/share/icons/hicolor/64x64/apps/ghostbsd.png",
+    "save_path": "~/.config/ghostbsd-welcome.json",
+    "ui_path": "/usr/share/ghostbsd-welcome/ui/ghostbsd-welcome.glade",
+    "urls": {
+        "development": "https://github.com/GhostBSD",
+        "chat": "https://kiwiirc.com/client/irc.freenode.net/?nick=ghostbsd-web|?#ghostbsd",
+        "donate": "https://www.patreon.com/GhostBSD",
+        "facebook": "https://www.facebook.com/GhostBSD",
+        "forum": "https://forums.ghostbsd.org",
+        "google+": "https://plus.google.com/",
+        "telegram": "https://t.me/ghostbsd",
+        "reddit": "https://www.reddit.com/r/GhostBSD",
+        "twitter": "https://twitter.com/GhostBSD",
+        "wiki": "https://wiki.ghostbsd.org"
+    }
+}
