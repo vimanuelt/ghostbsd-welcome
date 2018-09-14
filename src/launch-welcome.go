@@ -19,7 +19,7 @@ func startWelcome() {
                 fmt.Println("python3.6 does not exist")
         }
         if Exists("/usr/local/bin/python3.6") {
-                execmd := exec.Command("/usr/local/bin/python3.6", "xlate/view/render/ghostbsd-welcome.py", "--dev")
+                execmd := exec.Command("/usr/local/bin/python3.6", "xlate/view/render/render-welcome.py", "--dev")
 		execmd.Start()
         }
 }
