@@ -13,17 +13,15 @@ func main() {
 	startWelcome()
 }
 
-
 func startWelcome() {
-        if !Exists("/usr/local/bin/python3.6") {
-                fmt.Println("python3.6 does not exist")
-        }
-        if Exists("/usr/local/bin/python3.6") {
-                execmd := exec.Command("/usr/local/bin/python3.6", "render/ghostbsd-welcome.py", "--dev")
+	if !Exists("/usr/local/bin/python3.6") {
+		fmt.Println("python3.6 does not exist")
+	}
+	if Exists("/usr/local/bin/python3.6") {
+		execmd := exec.Command("/usr/local/bin/python3.6", "render/ghostbsd-welcome.py", "--dev")
 		execmd.Start()
-        }
+	}
 }
-
 
 func checkError(err error) {
 	if err != nil {
