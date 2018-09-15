@@ -21,11 +21,11 @@ class Hello():
 
         # Load preferences
         if self.dev:
-            self.preferences = read_json("xlate/view/data/preferences.json")
-            self.preferences["data_path"] = "xlate/view/data/"
+            self.preferences = read_json("./xlate/view/data/preferences.json")
+            self.preferences["data_path"] = "./xlate/view/data/"
             self.preferences["desktop_path"] = os.getcwd() + "/{}.desktop".format(self.app)
-            self.preferences["locale_path"] = "xlate/view/locale/"
-            self.preferences["ui_path"] = "xlate/view/ui/{}.glade".format(self.app)
+            self.preferences["locale_path"] = "./xlate/view/locale/"
+            self.preferences["ui_path"] = "./render/ui/{}.glade".format(self.app)
         else:
             self.preferences = read_json("/usr/share/{}/data/preferences.json".format(self.app))
 
