@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-14 23:18+0900\n"
+"POT-Creation-Date: 2018-09-16 12:29+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../ui/ghostbsd-welcome.glade:55
+#: ../../render/ui/ghostbsd-welcome.glade:55
 msgid "Welcome to GhostBSD!"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:71
+#: ../../render/ui/ghostbsd-welcome.glade:71
 msgid ""
 "Thank you for joining our community!\n"
 "\n"
@@ -31,84 +31,88 @@ msgid ""
 "your feedback."
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:89
+#: ../../render/ui/ghostbsd-welcome.glade:89
 msgid "DOCUMENTATION"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:103
+#: ../../render/ui/ghostbsd-welcome.glade:103
 msgid "SUPPORT"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:117
+#: ../../render/ui/ghostbsd-welcome.glade:117
 msgid "PROJECT"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:129
+#: ../../render/ui/ghostbsd-welcome.glade:129
 msgid "Read me"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:143
+#: ../../render/ui/ghostbsd-welcome.glade:143
 msgid "Release info"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:158
+#: ../../render/ui/ghostbsd-welcome.glade:158
 msgid "Wiki"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:163 ../../ui/ghostbsd-welcome.glade:194
-#: ../../ui/ghostbsd-welcome.glade:211 ../../ui/ghostbsd-welcome.glade:228
-#: ../../ui/ghostbsd-welcome.glade:245 ../../ui/ghostbsd-welcome.glade:262
+#: ../../render/ui/ghostbsd-welcome.glade:163
+#: ../../render/ui/ghostbsd-welcome.glade:194
+#: ../../render/ui/ghostbsd-welcome.glade:211
+#: ../../render/ui/ghostbsd-welcome.glade:228
+#: ../../render/ui/ghostbsd-welcome.glade:245
+#: ../../render/ui/ghostbsd-welcome.glade:262
 msgid "Web resource"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:175
+#: ../../render/ui/ghostbsd-welcome.glade:175
 msgid "Get involved"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:189
+#: ../../render/ui/ghostbsd-welcome.glade:189
 msgid "Forums"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:206
+#: ../../render/ui/ghostbsd-welcome.glade:206
 msgid "Chat room"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:223
+#: ../../render/ui/ghostbsd-welcome.glade:223
 msgid "Telegram"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:240
+#: ../../render/ui/ghostbsd-welcome.glade:240
 msgid "Development"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:257
+#: ../../render/ui/ghostbsd-welcome.glade:257
 msgid "Donate"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:376
+#: ../../render/ui/ghostbsd-welcome.glade:376
 msgid "Launch at start"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:407
+#: ../../render/ui/ghostbsd-welcome.glade:407
 msgid "INSTALLATION"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:419
+#: ../../render/ui/ghostbsd-welcome.glade:419
 msgid "Launch installer"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:462
+#: ../../render/ui/ghostbsd-welcome.glade:462
 msgid "Home"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:491 ../../ui/ghostbsd-welcome.glade:505
+#: ../../render/ui/ghostbsd-welcome.glade:491
+#: ../../render/ui/ghostbsd-welcome.glade:505
 msgid "About"
 msgstr ""
 
-#: ../../ui/ghostbsd-welcome.glade:510
+#: ../../render/ui/ghostbsd-welcome.glade:510
 msgid "Welcome screen for GhostBSD"
 msgstr ""
 
-#: ../../src/ghostbsd-welcome.py:223
+#: ../../render/ghostbsd-welcome.py:223
 msgid "Can't load page."
 msgstr ""

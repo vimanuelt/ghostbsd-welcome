@@ -1,2 +1,2 @@
-../view/ui/ghostbsd-welcome.glade
-../view/render/ghostbsd-welcome.py
+../../render/ui/ghostbsd-welcome.glade
+../../render/ghostbsd-welcome.py

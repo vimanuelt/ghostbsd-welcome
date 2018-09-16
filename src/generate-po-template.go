@@ -15,7 +15,7 @@ func createPot() {
 		fmt.Println("gettext does not exist")
 	}
 	if Exists("/usr/local/bin/gettext") {
-		execmd := exec.Command("xgettext", "--from-code=UTF-8", "--files-from=./files_to_translate", "--keyword=translatable", "--keyword=_", "--output=../../po/ghostbsd-welcome.pot")
+		execmd := exec.Command("xgettext", "--from-code=UTF-8", "--files-from=./files_to_translate", "--keyword=translatable", "--keyword=_", "--output=../model/po/ghostbsd-welcome.pot")
 		execmd.Start()
 	}
 }
